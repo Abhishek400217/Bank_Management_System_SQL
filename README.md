@@ -54,7 +54,7 @@ Extend with ATM Transactions & Net Banking features
 👨‍💻 Author
 
 Abhishek Karande
-📌 B.Tech (Information Technology) — K.K. Wagh College of Engineering
+📌 B.Tech (Information Technology) — K.D.K College of Engineering
 💼 Aspiring Software & Web Developer
 
 ⭐ If you like this project, don’t forget to star the repo! ⭐
