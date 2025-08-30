@@ -1,3 +1,8 @@
+![Made with SQL](https://img.shields.io/badge/Made%20with-SQL-blue.svg)
+![Oracle Database](https://img.shields.io/badge/Database-Oracle%2023ai-red)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 🏦 Bank Management System — SQL Project
 
 A complete Bank Management System database project built on Oracle Database (tested on Oracle 23ai Free).
